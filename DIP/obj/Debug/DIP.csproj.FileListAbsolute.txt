@@ -1,0 +1,8 @@
+C:\Users\intel\source\repos\DIP\bin\Debug\DIP.exe.config
+C:\Users\intel\source\repos\DIP\bin\Debug\DIP.exe
+C:\Users\intel\source\repos\DIP\bin\Debug\DIP.pdb
+C:\Users\intel\source\repos\DIP\obj\Debug\DIP.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\DIP\obj\Debug\DIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\intel\source\repos\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\DIP\obj\Debug\DIP.exe
+C:\Users\intel\source\repos\DIP\obj\Debug\DIP.pdb

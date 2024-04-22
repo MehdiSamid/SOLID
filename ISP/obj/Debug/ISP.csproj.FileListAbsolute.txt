@@ -1,0 +1,8 @@
+C:\Users\intel\source\repos\ISP\bin\Debug\ISP.exe.config
+C:\Users\intel\source\repos\ISP\bin\Debug\ISP.exe
+C:\Users\intel\source\repos\ISP\bin\Debug\ISP.pdb
+C:\Users\intel\source\repos\ISP\obj\Debug\ISP.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\ISP\obj\Debug\ISP.csproj.SuggestedBindingRedirects.cache
+C:\Users\intel\source\repos\ISP\obj\Debug\ISP.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\ISP\obj\Debug\ISP.exe
+C:\Users\intel\source\repos\ISP\obj\Debug\ISP.pdb

@@ -1,0 +1,8 @@
+C:\Users\intel\source\repos\LSP\obj\Debug\LSP.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\LSP\obj\Debug\LSP.csproj.SuggestedBindingRedirects.cache
+C:\Users\intel\source\repos\LSP\obj\Debug\LSP.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\LSP\bin\Debug\LSP.exe.config
+C:\Users\intel\source\repos\LSP\bin\Debug\LSP.exe
+C:\Users\intel\source\repos\LSP\bin\Debug\LSP.pdb
+C:\Users\intel\source\repos\LSP\obj\Debug\LSP.exe
+C:\Users\intel\source\repos\LSP\obj\Debug\LSP.pdb
